@@ -1,0 +1,21 @@
+Mars 2 - Week 5 status
+Key tasks or objectives this week:
+Need to push our pieces to master and make sure there are no conflicts
+Need to work on App layout
+TEAM MEMBER:
+
+Tasks done this week
+Maria - worked on app navigation, connecting header and search bar to home page; created popular page
+Laila - worked on icons for the footer
+Thomas - Merged together the navigation, created message page skeleton, created flow chart, loaded navigation item content to specific page
+Sam - Wrapped up login page and added deep link functionality
+
+Tasks planned for next week
+Maria - make the search bar work, get top navigation to work
+Laila - need to update expo
+Thomas -  Pull content from website to navigation items, merge together everyone’s content
+Sam - Create users and contribute to other parts of the app
+
+Unresolved questions or blocking issues
+Need to finish research for pulling feed from website - Thomas
+

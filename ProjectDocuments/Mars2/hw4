@@ -1,0 +1,25 @@
+Mars 2 - Week 4 status
+Key tasks or objectives this week:
+Need to push our pieces to master and make sure there are no conflicts 
+Need to work on App layout 
+TEAM MEMBER:
+
+Tasks done this week 
+Maria - working on implementing header and making search bar work 
+Laila - Changed code for the footer and imported it in App.js.  
+Thomas - Created lists displaying images, titles, and short description mockup. 
+Sam - Created page-to-page navigation and the App’s login page 
+
+Tasks planned for next week 
+Maria - gonna talk to team about App infrastructure and react navigation in app.js and finish header 
+Laila - Although I’m not getting an error in expo, my code isn’t rendering in my emulator. I’m still working to get that fixed.  
+Thomas - Add clickable list items, render multiple list items, import to member connection page  
+Sam - Add login capabilities and users credentials 
+
+Unresolved questions or blocking issues 
+Cannot figure out how to render new information from other pages -Thomas 
+Cannot figure out how to resolve functions in onClick other than toasts -Thomas 
+Pushing to github - Maria 
+
+
+
